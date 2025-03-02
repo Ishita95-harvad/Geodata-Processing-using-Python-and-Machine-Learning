@@ -1,9 +1,8 @@
-# Geodata-Processing-using-Python-and-Machine-Learning
-🌍 Geodata Processing with Python & Machine Learning
+
+**🌍 Geodata Processing with Python & Machine Learning**
 Welcome to the Geodata Processing with Python and Machine Learning repository! This project is designed to help you explore, analyze, and visualize geospatial data using Python and machine learning techniques. Whether you're a beginner or an experienced data scientist, this repository provides tools, datasets, and tutorials to get you started.
 
-🗂️ Repository Structure
-Copy
+**🗂️ Repository Structure**
 Geodata-Processing-using-Python-and-Machine-Learning/
 ├── ML/
 │   ├── Tehri/
@@ -30,7 +29,7 @@ Geodata-Processing-using-Python-and-Machine-Learning/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-📊 Datasets
+**📊 Datasets**
 The repository includes the following datasets:
 
 Tehri Satellite Images: Multi-band .tif files (BAND2, BAND3, BAND4, BAND5) with metadata (.xml).
@@ -43,7 +42,7 @@ Haridwar Satellite Data: haridwar.tif for regional analysis.
 
 Sample Geospatial Data: vizag_sample_data.csv for practice.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 Python Libraries:
 
 rasterio for raster data manipulation.
@@ -60,7 +59,7 @@ Jupyter Notebooks: Interactive tutorials and examples.
 
 Machine Learning: Supervised and unsupervised learning for geospatial analysis.
 
-📖 Tutorials & Notebooks
+**📖 Tutorials & Notebooks**
 The repository includes the following Jupyter notebooks:
 
 Introduction to Geospatial Data (dlp_lec1.ipynb):
@@ -91,7 +90,7 @@ Advanced ML Models (dlp_lec9_v2.ipynb):
 
 Hyperparameter tuning and advanced techniques.
 
-🚀 Getting Started
+**🚀 Getting Started**
 Step 1: Clone the Repository
 bash
 Copy
@@ -112,7 +111,7 @@ jupyter notebook
 Step 5: Explore the Notebooks
 Open the notebooks in the ML/Notebooks/ folder and start learning!
 
-🤝 Contributing
+**🤝 Contributing**
 We welcome contributions! If you'd like to improve this repository, follow these steps:
 
 Fork the repository.
@@ -125,17 +124,17 @@ Push to the branch (git push origin feature/YourFeature).
 
 Open a pull request.
 
-📜 License
+**📜 License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📧 Contact
+**📧 Contact**
 For questions or collaboration opportunities, feel free to reach out:
 
 Email: bahamniaishita@gmail.com
 
 LinkedIn:https://www.linkedin.com/in/-ishitabahamnia-seniorresearchanalyst/
 
-🙏 Acknowledgments
+**🙏 Acknowledgments**
 Special thanks to ISRO for providing satellite data.
 
 Gratitude to the course instructors for their guidance and support.
